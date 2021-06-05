@@ -2,4 +2,4 @@
   "adds one ;-)"
   (1+ n))
 
-(assert (=(add1 2)3))
+(assert (=(add1 1)2))
